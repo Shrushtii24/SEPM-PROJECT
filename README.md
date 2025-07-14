@@ -17,3 +17,12 @@ A web-based application designed to streamline the administrative and academic a
 
 📊 Reports on student progress and fee status
 
+📌 Usage
+Clone the repository
+
+Set up the database using the provided SQL scripts
+
+Run the server (e.g., via XAMPP or Flask)
+
+Login as Admin/Teacher/Student to explore different modules
+
